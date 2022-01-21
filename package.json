@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^14.0.25",
+    "@types/node": "^14.18.3",
     "@types/reflect-metadata": "^0.1.0",
     "avalanche": "^3.2.0",
     "bn.js": "^5.1.2",
